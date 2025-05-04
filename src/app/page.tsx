@@ -29,7 +29,7 @@ const handleWhatsAppClick = () => {
       content_name: "WhatsApp Button Click",
     });
   }
-  window.open("https://wa.me/15792647578", "_blank");
+  window.open("https://wa.me/995593352319", "_blank");
 };
 
 export default function Home(): React.ReactNode {
